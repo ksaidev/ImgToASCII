@@ -1,0 +1,11 @@
+[package]
+name = "AsciiArt"
+version = "0.1.0"
+authors = ["boxboy <rlawnsdud523@naver.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.23.14"
+rust-ini = "0.17.0"
